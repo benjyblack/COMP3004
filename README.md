@@ -1,3 +1,18 @@
 COMP3004
 ========
-Task 1: Figure out a name for our group
+
+Group Name
+----------
+
+
+Team Leader
+-----------
+Kevin MacMartin
+
+Primes
+------
+Documentation - Ben Black
+Requirements - Alex Monette
+Architecture/Design - Kevin MacMartin
+Testing - Alex Monette
+Configuration - Ben Black
